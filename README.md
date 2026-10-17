@@ -11,7 +11,6 @@ Windsurf Pro is an advanced AI-powered code editor that combines intelligent aut
 - Download and extract the archive and run `setup.exe`
 - Complete the installation
 
-![Windsurf Pro](pic.jpg)
 
 ## Features
 
